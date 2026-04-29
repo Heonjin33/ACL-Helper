@@ -6,10 +6,10 @@ ACL-helper 是一个康复辅助评估 Web 应用。前端使用 Vue 3、Vite、
 
 ## 项目演示
 上传录制好的深蹲或走路的一段视频，或者选择开启摄像头实时检测。
-![alt text](images\Snipaste_2026-04-29_15-39-32.png)
+![alt text](https://ai-code-generator33-1407333245.cos.ap-beijing.myqcloud.com/screenshots/2026/03/01/Snipaste_2026-04-29_15-39-32.png)
 
 检测完毕后，能够生成一份检测报告。对目前康复状况进行打分并规划接下来的康复计划。
-![alt text](images\Snipaste_2026-04-29_15-41-20.png)
+![alt text](https://ai-code-generator33-1407333245.cos.ap-beijing.myqcloud.com/screenshots/2026/03/01/Snipaste_2026-04-29_15-41-20.png)
 
 ## 启动
 
